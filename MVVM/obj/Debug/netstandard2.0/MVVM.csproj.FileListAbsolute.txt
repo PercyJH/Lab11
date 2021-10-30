@@ -1,0 +1,13 @@
+C:\Users\Alumno\source\repos\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.deps.json
+C:\Users\Alumno\source\repos\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.dll
+C:\Users\Alumno\source\repos\MVVM\MVVM\bin\Debug\netstandard2.0\ref\MVVM.dll
+C:\Users\Alumno\source\repos\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.pdb
+C:\Users\Alumno\source\repos\MVVM\MVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno\source\repos\MVVM\MVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alumno\source\repos\MVVM\MVVM\obj\Debug\netstandard2.0\Views\Operations.xaml.g.cs
+C:\Users\Alumno\source\repos\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\MVVM\MVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno\source\repos\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.dll
+C:\Users\Alumno\source\repos\MVVM\MVVM\obj\Debug\netstandard2.0\ref\MVVM.dll
+C:\Users\Alumno\source\repos\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.pdb
